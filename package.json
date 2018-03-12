@@ -45,7 +45,9 @@
   },
   "dependencies": {
     "aes-js": "^3.1.0",
-    "aws-sdk": "2.171.0",
     "debug": "3.1.0"
+  },
+  "peerDependencies": {
+    "aws-sdk": "^2.208.0"
   }
 }
